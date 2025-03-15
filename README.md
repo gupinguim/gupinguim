@@ -10,9 +10,10 @@ My thesis can be found here, where I talk about the prototype - an implementatio
 
 - Microservices and Distributed Transactions arquitecture
 - Eventual Consistency
-- .Net 6 and Python
+- .Net 6 and Java 21+
 - CI/CD Workflows in GitHub Actions
-- Service Mesh with Istio and Amazon App Mesh
+- Service Mesh with Istio
+- Kafka or any Event related platform
 
 #### Reach me out through the links below
 
